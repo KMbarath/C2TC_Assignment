@@ -1,4 +1,4 @@
-package com.barath.assignment_2;
+package com.KMbarath.assignment2;
 
 public class MainClass {
     public static void main(String[] args) {
